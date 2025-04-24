@@ -15,21 +15,21 @@ Ideal para demostrar habilidades en **diseño de reportes**, **modelado de datos
 ```
 powerbi-data-analysis/
 │
-├── Dashboards/                    # Carpeta principal de dashboards
-│   ├── Dashboard01_RRHH/              
-│   │   ├── dashboard-rrhh.pbix        # Recursos Humanos
-│   │   ├── Capturas/                  # Screenshots del dashboard
-│   │   └── README.md                  # Descripción del caso
-│   └── ...
+├── assets/                        # Fondos, logos, iconos
 │
-├── Assets/                        # Logos, iconos, imágenes
+├── dashboards/                    # Carpeta principal de dashboards
+│   ├── dashboard01_rrhh/              
+│   │   ├── dashboard-rrhh.pbix        # Recursos Humanos
+│   │   └── README.md                  # Descripción del caso
+│   │
+│   └── (más dashboards serán añadidos) 
 │
 └── README.md                      # Documentación del repositorio
 ```
 
 ## 🧰 **Herramientas y Tecnologías**
 
-- 📊 **Power BI Desktop** – Creación y modelado de dashboards
+- 📊 **Power BI** – Creación y modelado de dashboards
 - 📂 **Excel / CSV / SQL Server** – Fuentes comunes de datos
 - 🧠 **DAX / Power Query** – Lenguajes para modelado y transformación
 
