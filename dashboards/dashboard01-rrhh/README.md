@@ -16,7 +16,7 @@ Diseñar un dashboard funcional y visualmente atractivo que permita analizar mé
 - **Tabla detallada** con datos por empleado (departamento, posición, estado, género, sueldo)
 - **Visualización geográfica (mapa coroplético)** de sueldos medios por estado
 - **Columnas personalizadas** con fórmulas DAX (`IF`, `YEARFRAC`, `AVERAGE`, etc.)
-- **Interactividad**: filtros dinámicos
+- **Interactividad** haciendo uso de filtros dinámicos
 - **Estilo visual personalizado**: tema de color consistente y diseño limpio
 
 ## 📈 **KPIs Visualizados**
@@ -42,9 +42,8 @@ Este informe fue desarrollado como parte de mi formación en Power BI, siguiendo
 
 - **Power BI Desktop** – Desarrollo del modelo y visualizaciones  
 - **Lenguaje DAX** – Creación de métricas personalizadas y columnas calculadas
-<!--
+
 ## 🌐 **Ver en línea**
 
 Puedes acceder al informe publicado desde el siguiente enlace:  
-🔗 [Ver dashboard interactivo](https://github.com/ReusJimenez/powerbi-data-analysis/tree/main/dashboards/dashboard01-rrhh)
--->
+🔗 [Ver dashboard interactivo](https://app.powerbi.com/groups/me/reports/b7ada621-418a-4ccd-86ec-198f7ab9eead?ctid=8dbd6711-3051-4a69-bb5e-8714606711d6&pbi_source=linkShare)
