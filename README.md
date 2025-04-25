@@ -4,7 +4,7 @@ Dashboards interactivos desarrollados en **Power BI**, orientados al análisis d
 
 ## 📝 **Descripción**
 
-Este repositorio recopila una colección de dashboards diseñados con Power BI, que abarcan distintos temas y casos de uso en el análisis de datos. Cada proyecto incluye una breve descripción del objetivo, las fuentes de datos utilizadas, y capturas de pantalla del resultado final.
+Este repositorio recopila una colección de dashboards diseñados con Power BI, que abarcan distintos temas y casos de uso en el análisis de datos. Cada proyecto incluye un `README` con descripción detallada, el objetivo del proyecto, las fuentes de datos utilizadas y capturas de pantalla del resultado final.
 
 Ideal para demostrar habilidades en **diseño de reportes**, **modelado de datos**, y **narrativa visual** mediante Power BI.
 
@@ -19,14 +19,14 @@ powerbi-data-analysis/
 │
 ├── dashboards/                    # Proyectos individuales de dashboards
 │   ├── dashboard01-rrhh/              
-│   │   ├── dashboard-rrhh.pbix        # Archivo Power BI
-│   │   ├── data-rrhh.xlsx             # Conjunto de datos
-│   │   └── README.md                  # Descripción del proyecto
+│   │   ├── dashboard-rrhh.pbix          # Archivo Power BI
+│   │   ├── data-eeuu-empleados.xlsx     # Conjunto de datos
+│   │   └── README.md                    # Descripción del proyecto
 │   │
 │   ├── dashboard02-ventas/              
-│   │   ├── dashboard-ventas.pbix      # Archivo Power BI
-│   │   ├── data-ventas.xlsx           # Conjunto de datos
-│   │   └── README.md                  # Descripción del proyecto
+│   │   ├── dashboard-ventas.pbix        # Archivo Power BI
+│   │   ├── data-amazon-products.zip     # Conjunto de datos
+│   │   └── README.md                    # Descripción del proyecto
 │   │
 │   └── (más dashboards serán añadidos) 
 │
