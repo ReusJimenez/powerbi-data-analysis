@@ -15,23 +15,35 @@ Ideal para demostrar habilidades en **diseño de reportes**, **modelado de datos
 ```
 powerbi-data-analysis/
 │
-├── assets/                        # Fondos, logos, iconos
+├── assets/                        # Fondos, iconos y demás recursos visuales
 │
-├── dashboards/                    # Carpeta principal de dashboards
-│   ├── dashboard01_rrhh/              
-│   │   ├── dashboard-rrhh.pbix        # Recursos Humanos
-│   │   └── README.md                  # Descripción del caso
+├── dashboards/                    # Proyectos individuales de dashboards
+│   ├── dashboard01-rrhh/              
+│   │   ├── dashboard-rrhh.pbix        # Archivo Power BI
+│   │   ├── data-rrhh.xlsx             # Conjunto de datos
+│   │   └── README.md                  # Descripción del proyecto
 │   │
 │   └── (más dashboards serán añadidos) 
 │
 └── README.md                      # Documentación del repositorio
 ```
 
-## 🧰 **Herramientas y Tecnologías**
+## 🛠 **Herramientas y Tecnologías**
 
 - 📊 **Power BI** – Creación y modelado de dashboards
 - 📂 **Excel / CSV / SQL Server** – Fuentes comunes de datos
 - 🧠 **DAX / Power Query** – Lenguajes para modelado y transformación
+
+## 🎓 **Competencias Técnicas Aplicadas**  
+
+- 🔄 **Conexión y transformación de datos** con Power Query
+- 📐 **Modelado de datos** y creación de relaciones entre tablas
+- 📊 **Visualizaciones interactivas**: tarjetas, barras, mapas, treemaps, anillos, KPIs, medidores, entre otras
+- 🧮 **Fórmulas DAX**: `COUNT`, `AVERAGE`, `IF`, `CALCULATE`, `FILTER`, `YEARFRAC`, etc.
+- 🎨 **Formatos condicionales**, personalización de estilos y aplicación de temas
+- 📅 Creación de **tablas calendario** con DAX y Power Query
+<!-- - 🌐 **Publicación de dashboards** en Power BI Service y generación de enlaces para compartir en la web
+- 🧭 **Diseño y navegación avanzada** con bookmarks, interacciones y sincronización de filtros -->
 
 ## 📚 **Recursos Útiles**
 
@@ -40,6 +52,8 @@ powerbi-data-analysis/
 - ⚡ [Power Query M Language](https://learn.microsoft.com/en-us/powerquery-m/) – Lenguaje de transformación
 
 ## 📩 **Contacto**
+
+Si tienes alguna pregunta o sugerencia, no dudes en contactar a:
 
 - **Nombre:** Roberto Edmundo Eustaquio Jiménez  
 - **Email:** [reusjimenez2002@gmail.com](mailto:reusjimenez2002@gmail.com)  
