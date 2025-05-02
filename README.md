@@ -10,15 +10,16 @@ Dashboards interactivos desarrollados en Power BI, orientados al análisis de da
 - Modelado de datos y creación de relaciones entre tablas
 - Visualizaciones interactivas: tarjetas, barras, mapas, treemaps, anillos, KPIs, medidores, entre otras
 - Fórmulas DAX: `COUNT`, `AVERAGE`, `IF`, `CALCULATE`, `FILTER`, `YEARFRAC`, etc.
-- Formatos condicionales, personalización de estilos y aplicación de temas
-- Diseño y navegación avanzada con bookmarks, interacciones y sincronización de filtros
+- Segmentadores personalizados, bookmarks e interacciones sincronizadas
+- Personalización de diseño: temas visuales, agrupación de elementos y navegación guiada
 <!-- - Creación de tablas calendario con DAX y Power Query -->
 
 ## 🛠️ Herramientas y Tecnologías
 
 - 📊 Power BI – Creación y modelado de dashboards
+- 🔄 Power Query – Limpieza y transformación de datos
+- 🧮 DAX – Modelado semántico y creación de métricas
 - 📂 Excel / CSV / SQL Server – Fuentes comunes de datos
-- 🧠 DAX / Power Query – Lenguajes para modelado y transformación
 
 ## 📩 Contacto
 
