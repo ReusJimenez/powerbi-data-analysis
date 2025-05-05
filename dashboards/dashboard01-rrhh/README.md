@@ -1,12 +1,10 @@
-# 📊 Dashboard de RR.HH. – EE.UU. 2025 (Proyecto Simulado)
+# 📊 Dashboard de RR.HH. – Empresa EE.UU. (Data Simulada)
 
-![Vista previa del dashboard](https://github.com/user-attachments/assets/39219856-4117-4f2d-8f82-ca23df6310bc)
-
-**Visualización interactiva desarrollada en Power BI para analizar datos ficticios de Recursos Humanos en una empresa de EE.UU. durante el año 2025.**
+![Vista previa del dashboard](https://github.com/user-attachments/assets/ba4577ed-d593-4105-bf62-67c9966fb0de)
 
 ## 🌐 Ver en línea
 
-🔗 [Accede al dashboard interactivo en Power BI](https://app.powerbi.com/groups/me/reports/a175ce15-ea2a-4c93-bf47-d2d6084735c7?ctid=8dbd6711-3051-4a69-bb5e-8714606711d6&pbi_source=linkShare)
+### 🔗 [Accede al dashboard interactivo](https://app.powerbi.com/groups/me/reports/a175ce15-ea2a-4c93-bf47-d2d6084735c7?ctid=8dbd6711-3051-4a69-bb5e-8714606711d6&pbi_source=linkShare)
 
 ## 🎯 Objetivo del Proyecto
 
@@ -18,7 +16,7 @@ Diseñar un dashboard funcional y visualmente atractivo que facilite el análisi
 - **KPIs principales**: total de empleados, sueldo promedio, evaluación promedio, edad promedio
 - **Columnas personalizadas** con fórmulas DAX (`IF`, `YEARFRAC`, `AVERAGE`)
 - **Gráficos de barras**: análisis por grupo etario, evaluación, rango salarial y departamentos
-- **Visualización geográfica (mapa coroplético)**: comparación de sueldos promedio por estado
+- **Visualización geográfica**: comparación de sueldos promedio por estado
 - **Tabla detallada de empleados** con filtros integrados
 - **Diseño visual agrupado y jerárquico** que mejora la experiencia del usuario
 <!--
@@ -32,9 +30,9 @@ El informe se basa en tres tablas conectadas mediante el campo `ID Empleado`:
 -->
 ## 🛠️ Herramientas Utilizadas
 
-- Power BI Desktop – Desarrollo del modelo y visualizaciones  
-- Lenguaje DAX – Cálculo de columnas personalizadas y métricas
-- Power Query – Transformación previa de datos
+- **Power BI** – Desarrollo del modelo y visualizaciones  
+- **Power Query** – Transformación previa de datos
+- **Lenguaje DAX** – Cálculo de columnas personalizadas y métricas
 
 ## 📩 Contacto
 

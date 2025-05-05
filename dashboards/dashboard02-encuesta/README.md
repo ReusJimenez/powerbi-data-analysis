@@ -1,12 +1,11 @@
-# 📊 Dashboard de Encuesta de Clientes (Proyecto Simulado)
+# 📊 Dashboard de Encuesta de Clientes (Data Simulada)
 <!-- 
 ![Vista previa del dashboard]()
 -->
-**Visualización desarrollada en Power BI para analizar los resultados de una encuesta en línea sobre hábitos y preferencias de clientes. Proyecto simulado realizado con datos ficticios.**
 <!-- 
 ## 🌐 Ver en línea
 
-🔗 [Accede al dashboard interactivo en Power BI](#) 
+### 🔗 [Accede al dashboard interactivo](https://app.powerbi.com/groups/me/reports/a175ce15-ea2a-4c93-bf47-d2d6084735c7?ctid=8dbd6711-3051-4a69-bb5e-8714606711d6&pbi_source=linkShare)
 -->
 ## 🎯 Objetivo del Proyecto
 
@@ -25,7 +24,7 @@ Diseñar un dashboard visualmente claro y dinámico que permita comprender el pe
 
 ## 🛠️ Herramientas Utilizadas
 
-- **Power BI Desktop** – Desarrollo de visualizaciones e integración de segmentadores
+- **Power BI** – Desarrollo de visualizaciones e integración de segmentadores
 - **Power Query** – Preparación y modelado de los datos
 - **Lenguaje DAX** – Cálculo de promedios y métricas clave
 

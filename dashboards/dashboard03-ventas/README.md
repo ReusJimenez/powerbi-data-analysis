@@ -1,12 +1,12 @@
-# 📊 Dashboard de Ventas – Amazon Products 2023 (Proyecto Simulado)
+# 📊 Dashboard de Ventas – Amazon Products 2023
 <!--
 ![Vista previa del dashboard]()
 
-**Visualización interactiva desarrollada en Power BI para analizar datos simulados de ventas de productos en Amazon durante el año 2023.**
+**Visualización interactiva desarrollada en Power BI para analizar datos de ventas de productos en Amazon durante el año 2023.**
 
 ## 🌐 Ver en línea
 
-🔗 [Accede al dashboard interactivo en Power BI]()
+### 🔗 [Accede al dashboard interactivo](#)
 -->
 ## 🎯 Objetivo del Proyecto
 
@@ -41,7 +41,7 @@ El análisis se realiza a partir de un único dataset (`Amazon-Products.csv`), q
 -->
 ## 🛠️ Herramientas Utilizadas
 
-- **Power BI Desktop** – Desarrollo del modelo y visualizaciones
+- **Power BI** – Desarrollo del modelo y visualizaciones
 - **Power Query** – Limpieza y transformación del dataset
 - **Lenguaje DAX** – Creación de KPIs y medidas personalizadas
 

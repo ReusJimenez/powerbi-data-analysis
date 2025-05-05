@@ -4,7 +4,7 @@ Dashboards interactivos desarrollados en Power BI, orientados al análisis de da
 
 > 🚧 En construcción. Se añadirán más proyectos progresivamente.
 
-## 🎓 Competencias Técnicas  
+## 🎓 Habilidades Técnicas  
 
 - Conexión y transformación de datos con Power Query
 - Modelado de datos y creación de relaciones entre tablas
@@ -14,7 +14,7 @@ Dashboards interactivos desarrollados en Power BI, orientados al análisis de da
 - Personalización de diseño: temas visuales, agrupación de elementos y navegación guiada
 <!-- - Creación de tablas calendario con DAX y Power Query -->
 
-## 🛠️ Herramientas y Tecnologías
+## 🛠️ Tecnologías Utilizadas
 
 - 📊 Power BI – Creación y modelado de dashboards
 - 🔄 Power Query – Limpieza y transformación de datos
